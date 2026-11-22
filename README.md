@@ -1,4 +1,4 @@
-# productclank-com
+# ProductClank
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-productclank-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://productclank.com/
+ProductClank is a community‑led growth platform that connects innovative builders with passionate creators to drive authentic product discovery. By gamifying campaigns, builders can launch targeted promotions and reward real creators for genuine content, while creators earn for their influence. The service emphasizes real‑person engagement over bots, offering tools for discovery, boosting, content creation, and analytics, all backed by grants and partnerships with Anthropic, ElevenLabs, and Google for Startups.
+
+**Areas:** Company · Growth · Community · Marketing · Platform
+
+## ProductClank on APIs.io
+
+Everything profiled for ProductClank is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/productclank-com/](https://apis.io/providers/productclank-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [ProductClank Content API](https://apis.io/apis/productclank-com/productclank-com-content-api/) — The content API from ProductClank — 1 operation(s) for content.
+- [ProductClank Directory API](https://apis.io/apis/productclank-com/productclank-com-directory-api/) — The directory API from ProductClank — 1 operation(s) for directory.
+- [ProductClank Payments API](https://apis.io/apis/productclank-com/productclank-com-payments-api/) — The payments API from ProductClank — 1 operation(s) for payments.
+- [ProductClank Social API](https://apis.io/apis/productclank-com/productclank-com-social-api/) — The social API from ProductClank — 2 operation(s) for social.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [ProductClank Agentic Access](https://apis.io/agentic-access/productclank-com/productclank-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Productclank Com Context](https://apis.io/jsonld/productclank-com/productclank-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ProductClank API Rules](https://apis.io/rules/productclank-com/productclank-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [ProductClank Domain Security](https://apis.io/security/productclank-com/productclank-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [ProductClank Plans Pricing](https://apis.io/plans/productclank-com/productclank-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://productclank.com/)
+- [Documentation](https://www.productclank.com/docs)
+- [Getting started](https://www.productclank.com/docs/quick-start)
+- [API reference](https://www.productclank.com/developers)
+- [Pricing](https://www.productclank.com/pricing)
+- [Blog](https://www.productclank.com/blog)
+- [Terms of service](https://www.productclank.com/terms)
+- [Privacy policy](https://www.productclank.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 49.3** — developing · rubric 0.27.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 49.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 37.4 |
+| Access clarity | 60.0 |
+
+**Agent readiness 59.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | documented (partial credit) |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/productclank-com/](https://apis.io/providers/productclank-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ProductClank: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/productclank-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
